@@ -1,10 +1,3 @@
-/**
- * File: Project4.java
- * Author: Jared Buehner
- * Date: May 1, 2020
- * Purpose: This class constructs a GUI that allows users to add, remove, and display entries of properties
- * in a real estate database.
- */
 // Imports.
 import javax.swing.*;
 import java.awt.event.*;
