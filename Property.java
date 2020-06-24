@@ -1,9 +1,3 @@
-/**
- * File: Property.java
- * Author: Jared Buehner
- * Date: May 1, 2020
- * Purpose: This class implements ChangeableState interface and defines Property object to store property information
- */
 public class Property <T extends Enum <T>> implements StateChangeable <T> {
     private String propertyAddress;
     private int numberOfBedrooms;
